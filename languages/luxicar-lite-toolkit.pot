@@ -1,0 +1,1735 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Luxicar Lite Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Apr 25 2016 10:45:22 GMT+0700 (ICT)\n"
+"POT-Revision-Date: Mon Apr 25 2016 10:45:25 GMT+0700 (ICT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Luxicar Lite Toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A specific plugin use in Luxicar Lite Theme, included some custom widgets, "
+"and layout."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kopa Theme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kopatheme.com"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:108
+msgid "Shortcodes"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:109
+msgid "Typography"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:110
+msgid "Common"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:111
+msgid "Infographic"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:111
+msgid "Media"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:112
+msgid "Blockquote"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:113
+msgid "Blockquote style 1"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:114
+msgid "Blockquote style 2"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:115
+msgid "Blockquote style 3"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:116
+msgid "Button"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:117
+msgid "Normal buttons"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:118
+msgid "Buttons with icon"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:119
+msgid "Default"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:120
+msgid "Blue"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:121
+msgid "Orange"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:122
+msgid "Green"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:123
+msgid "Red"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:124
+msgid "Yellow"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:125
+msgid "Small"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:126 ../luxicar-lite-toolkit.php:130 ../luxicar-
+#: lite-toolkit.php:165 ../luxicar-lite-toolkit.php:169
+msgid "Normal"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:127
+msgid "Large"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:128
+msgid "Column"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:129
+msgid "Drop"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:131
+msgid "Background"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:132
+msgid "Fancy heading"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:133
+msgid "Fancy heading left"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:134
+msgid "Fancy heading center"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:135
+msgid "Fancy heading center icon"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:136
+msgid "Highlight"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:137
+msgid "Underline"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:138
+msgid "Black background"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:139
+msgid "Blue background"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:140
+msgid "Alert"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:141
+msgid "List"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:142 ../luxicar-lite-toolkit.php:150
+msgid "Social media"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:143
+msgid "Success"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:144
+msgid "Infor"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:145
+msgid "Warning"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:146
+msgid "Error"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:147
+msgid "Lists"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:148
+msgid "Plus"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:149
+msgid "Dot"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:151 ../inc/post-types/team/team.php:104
+msgid "Facebook"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:152 ../inc/post-types/team/team.php:109
+msgid "Twitter"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:153
+msgid "Linkedin"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:154
+msgid "Instagram"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:155 ../inc/post-types/team/team.php:114
+msgid "Google +"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:156
+msgid "Skype"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:157
+msgid "Pinterest"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:158
+msgid "Github"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:159
+msgid "Foursquare"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:160
+msgid "Dribble"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:161
+msgid "Youtube"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:162
+msgid "Rss"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:163
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:164
+msgid "Contact"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:166
+msgid "Background image"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:167 ../inc/post-types/portfolio/portfolio.php:116 .
+#: ./inc/post-types/portfolio/portfolio.php:142
+msgid "Client"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:168
+msgid "Accordion"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:170
+msgid "Image inside"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:171
+msgid "Icon inside"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:173
+msgid "Progress"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:174
+msgid "Progress Small"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:175
+msgid "Progress Medium"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:176
+msgid "Progress Chart"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:178
+msgid "Sticky Note"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:179
+msgid "Sticky Note Color 1"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:180
+msgid "Sticky Note Color 2"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:181
+msgid "Sticky Note Color 3"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:182
+msgid "Sticky Note Color 4"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:183
+msgid "Sticky Note Color 5"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:184
+msgid "Sticky Note Color 6"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:186
+msgid "Tabs"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:187
+msgid "Tabs Top"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:188
+msgid "Tab Right"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:189
+msgid "Tab Top Image"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:191
+msgid "Service List"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:192
+msgid "Service List Normal"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:193
+msgid "Service Advanced"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:195
+msgid "Portfolio"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:197
+msgid "Pricing Table"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:198
+msgid "Pricing Table 1"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:199
+msgid "Pricing Table 2"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:201
+msgid "Map"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:202
+msgid "Counter"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:203
+msgid "Square"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:204
+msgid "Rhombus"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:206
+msgid "Partner"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:207
+msgid "Partner 1"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:208
+msgid "Partner 2"
+msgstr ""
+
+#: ../luxicar-lite-toolkit.php:210
+msgid "Single Service"
+msgstr ""
+
+#: ../inc/ajax.php:8 ../inc/ajax.php:36
+msgid "Oops! errors occured."
+msgstr ""
+
+#: ../inc/ajax.php:39
+msgid "Success! Your email has been sent."
+msgstr ""
+
+#: ../inc/hook.php:39
+msgid "Featured content"
+msgstr ""
+
+#: ../inc/hook.php:46
+msgid "Gallery:"
+msgstr ""
+
+#: ../inc/hook.php:49
+msgid "This option only apply for post-format \"Gallery\"."
+msgstr ""
+
+#: ../inc/hook.php:52
+msgid "Quote:"
+msgstr ""
+
+#: ../inc/hook.php:55
+msgid "This option only apply for post-format \"Quote\"."
+msgstr ""
+
+#: ../inc/hook.php:58
+msgid "Video:"
+msgstr ""
+
+#: ../inc/hook.php:61
+msgid "This option only apply for post-format \"Video\"."
+msgstr ""
+
+#: ../inc/hook.php:64
+msgid "Audio:"
+msgstr ""
+
+#: ../inc/hook.php:67
+msgid "This option only apply for post-format \"Audio\"."
+msgstr ""
+
+#: ../inc/hook.php:70
+msgid "Custom:"
+msgstr ""
+
+#: ../inc/hook.php:73
+msgid "Enter custom content as shortcode or custom HTML, ..."
+msgstr ""
+
+#: ../inc/hook.php:86 ../inc/hook.php:93 ../inc/post-
+#: types/portfolio/widget/portfolio-slider.php:28 ../inc/post-
+#: types/service/widget/sale-subscribe.php:40 ../inc/post-
+#: types/service/widget/service-grid.php:28 ../inc/post-
+#: types/service/widget/service-list-4-columns.php:28 ../inc/post-
+#: types/service/widget/service-slider-2-images.php:28 ../inc/post-
+#: types/team/widget/team-4-columns.php:28 ../inc/post-
+#: types/testimonial/widget/testimonial-intro.php:29 ../inc/post-
+#: types/testimonial/widget/testimonial-slider.php:28 ..
+#: /inc/widgets/contact/contact-form.php:28 ../inc/widgets/contact/contact-info-2-
+#: columns.php:28 ../inc/widgets/contact/contact-info-logo.php:29 ..
+#: /inc/widgets/misc/counter.php:25 ../inc/widgets/post/featured-post.php:38
+msgid "Description"
+msgstr ""
+
+#: ../inc/hook.php:96
+msgid "This option show description in header."
+msgstr ""
+
+#: ../inc/hook.php:106
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/util.php:11 ../inc/util.php:17 ../inc/widgets/util.php:12 ..
+#: /inc/widgets/util.php:18
+msgid "-- none --"
+msgstr ""
+
+#: ../inc/util.php:26 ../inc/widgets/util.php:27
+msgid "Title:"
+msgstr ""
+
+#: ../inc/util.php:31 ../inc/widgets/util.php:32
+msgid "Categories:"
+msgstr ""
+
+#: ../inc/util.php:37 ../inc/widgets/util.php:38
+msgid "Relation:"
+msgstr ""
+
+#: ../inc/util.php:40 ../inc/widgets/util.php:41
+msgid "AND"
+msgstr ""
+
+#: ../inc/util.php:41 ../inc/widgets/util.php:42
+msgid "OR"
+msgstr ""
+
+#: ../inc/util.php:47 ../inc/widgets/util.php:48
+msgid "Tags:"
+msgstr ""
+
+#: ../inc/util.php:54 ../inc/widgets/util.php:55
+msgid "Order:"
+msgstr ""
+
+#: ../inc/util.php:56 ../inc/widgets/util.php:57
+msgid "ASC"
+msgstr ""
+
+#: ../inc/util.php:57 ../inc/widgets/util.php:58
+msgid "DESC"
+msgstr ""
+
+#: ../inc/util.php:63 ../inc/widgets/util.php:64
+msgid "Orderby:"
+msgstr ""
+
+#: ../inc/util.php:65 ../inc/post-types/portfolio/portfolio.php:108 ../inc/post-
+#: types/portfolio/portfolio.php:145 ../inc/widgets/util.php:66
+msgid "Date"
+msgstr ""
+
+#: ../inc/util.php:66 ../inc/widgets/util.php:67
+msgid "Random"
+msgstr ""
+
+#: ../inc/util.php:67 ../inc/widgets/util.php:68
+msgid "Number of comments"
+msgstr ""
+
+#: ../inc/util.php:73 ../inc/widgets/util.php:80
+msgid "Number of posts:"
+msgstr ""
+
+#: ../inc/fields/metabox/gallery.php:18
+msgid "Config"
+msgstr ""
+
+#: ../inc/fields/metabox/icon.php:18
+msgid "Icon picker"
+msgstr ""
+
+#: ../inc/fields/metabox/icon.php:18
+msgid "select"
+msgstr ""
+
+#: ../inc/fields/metabox/icon.php:20
+msgid "Remove"
+msgstr ""
+
+#: ../inc/fields/metabox/icon.php:20
+msgid "remove"
+msgstr ""
+
+#: ../inc/fields/metabox/icon.php:500
+msgid "Search..."
+msgstr ""
+
+#: ../inc/fields/metabox/quote.php:13
+msgid "Message:"
+msgstr ""
+
+#: ../inc/fields/metabox/quote.php:23
+msgid "Author:"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:22
+msgctxt "post type general name"
+msgid "Partners"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:23
+msgctxt "post type singular name"
+msgid "Partner"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:24
+msgctxt "admin menu"
+msgid "Partners"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:25
+msgctxt "add new on admin bar"
+msgid "Partner"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:26
+msgctxt "partner"
+msgid "Add New"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:27
+msgid "Add New Partner"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:28
+msgid "New Partner"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:29
+msgid "Edit Partner"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:30
+msgid "View Partner"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:31
+msgid "All Partners"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:32
+msgid "Search Partners"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:33
+msgid "Parent Partners:"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:34
+msgid "No partner found."
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:35
+msgid "No partner found in Trash."
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:58
+msgctxt "taxonomy general name"
+msgid "Partners Tags"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:59 ../inc/post-types/portfolio/portfolio.
+#: php:68 ../inc/post-types/service/service.php:71 ../inc/post-types/slide/slide.
+#: php:59 ../inc/post-types/team/team.php:59 ../inc/post-
+#: types/testimonial/testimonial.php:60
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:60 ../inc/post-types/portfolio/portfolio.
+#: php:69 ../inc/post-types/service/service.php:72 ../inc/post-types/slide/slide.
+#: php:60 ../inc/post-types/team/team.php:60 ../inc/post-
+#: types/testimonial/testimonial.php:61
+msgid "Search Tags"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:61 ../inc/post-types/portfolio/portfolio.
+#: php:70 ../inc/post-types/service/service.php:73 ../inc/post-types/slide/slide.
+#: php:61 ../inc/post-types/team/team.php:61 ../inc/post-
+#: types/testimonial/testimonial.php:62
+msgid "All Tags"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:62 ../inc/post-types/portfolio/portfolio.
+#: php:71 ../inc/post-types/service/service.php:74 ../inc/post-types/slide/slide.
+#: php:62 ../inc/post-types/team/team.php:62 ../inc/post-
+#: types/testimonial/testimonial.php:63
+msgid "Parent Tag"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:63 ../inc/post-types/portfolio/portfolio.
+#: php:72 ../inc/post-types/service/service.php:75 ../inc/post-types/slide/slide.
+#: php:63 ../inc/post-types/team/team.php:63 ../inc/post-
+#: types/testimonial/testimonial.php:64
+msgid "Parent Tag:"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:64 ../inc/post-types/portfolio/portfolio.
+#: php:73 ../inc/post-types/service/service.php:76 ../inc/post-types/slide/slide.
+#: php:64 ../inc/post-types/team/team.php:64 ../inc/post-
+#: types/testimonial/testimonial.php:65
+msgid "Edit Tag"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:65 ../inc/post-types/portfolio/portfolio.
+#: php:74 ../inc/post-types/service/service.php:77 ../inc/post-types/slide/slide.
+#: php:65 ../inc/post-types/team/team.php:65 ../inc/post-
+#: types/testimonial/testimonial.php:66
+msgid "Update Tag"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:66 ../inc/post-types/portfolio/portfolio.
+#: php:75 ../inc/post-types/service/service.php:78 ../inc/post-types/slide/slide.
+#: php:66 ../inc/post-types/team/team.php:66 ../inc/post-
+#: types/testimonial/testimonial.php:67
+msgid "Add New Tag"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:67 ../inc/post-types/portfolio/portfolio.
+#: php:76 ../inc/post-types/service/service.php:79 ../inc/post-types/slide/slide.
+#: php:67 ../inc/post-types/team/team.php:67 ../inc/post-
+#: types/testimonial/testimonial.php:68
+msgid "New Tag Name"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:68 ../inc/post-types/portfolio/portfolio.
+#: php:77 ../inc/post-types/service/service.php:80 ../inc/post-types/slide/slide.
+#: php:68 ../inc/post-types/team/team.php:68 ../inc/post-
+#: types/testimonial/testimonial.php:69
+msgid "Tag"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:87 ../inc/post-types/portfolio/portfolio.
+#: php:96 ../inc/post-types/service/service.php:99 ../inc/post-types/slide/slide.
+#: php:87 ../inc/post-types/team/team.php:87 ../inc/post-
+#: types/testimonial/testimonial.php:88
+msgid "Options"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:94 ../inc/post-types/partner/partner.php:
+#: 110
+msgid "URL"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:106 ../inc/post-
+#: types/portfolio/portfolio.php:138 ../inc/post-types/service/service.php:130 ..
+#: /inc/post-types/slide/slide.php:116 ../inc/post-types/team/team.php:136 ..
+#: /inc/post-types/testimonial/testimonial.php:131
+msgid "<input type=\"checkbox\" />"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:107 ../inc/widgets/contact/contact-info-
+#: logo.php:23
+msgid "Logo"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:108 ../inc/post-
+#: types/portfolio/portfolio.php:140 ../inc/post-types/portfolio/widget/portfolio-
+#: loadmore.php:23 ../inc/post-types/portfolio/widget/portfolio-slider.php:23 ..
+#: /inc/post-types/service/service.php:132 ../inc/post-types/service/widget/sale-
+#: subscribe.php:35 ../inc/post-types/service/widget/service-grid.php:23 ..
+#: /inc/post-types/service/widget/service-highlight-2.php:23 ../inc/post-
+#: types/service/widget/service-list-4-columns.php:23 ../inc/post-
+#: types/service/widget/service-slider-2-images.php:23 ../inc/post-
+#: types/slide/slide.php:118 ../inc/post-types/team/widget/team-4-columns.php:23 .
+#: ./inc/post-types/testimonial/testimonial.php:133 ../inc/post-
+#: types/testimonial/widget/testimonial-intro.php:23 ../inc/post-
+#: types/testimonial/widget/testimonial-slider.php:23 ..
+#: /inc/widgets/contact/contact-form-2.php:22 ../inc/widgets/contact/contact-form.
+#: php:22 ../inc/widgets/contact/contact-info-2-columns.php:23 ..
+#: /inc/widgets/contact/contact-info-3-columns.php:23 ../inc/widgets/contact/map.
+#: php:23 ../inc/widgets/post/featured-post.php:28
+msgid "Title"
+msgstr ""
+
+#: ../inc/post-types/partner/partner.php:109 ../inc/post-
+#: types/partner/widget/partner.php:38 ../inc/post-types/portfolio/portfolio.php:
+#: 141 ../inc/post-types/portfolio/widget/portfolio-slider.php:49 ../inc/post-
+#: types/service/service.php:133 ../inc/post-types/service/widget/service-grid.
+#: php:55 ../inc/post-types/service/widget/service-highlight-2.php:50 ../inc/post-
+#: types/service/widget/service-list-4-columns.php:55 ../inc/post-
+#: types/service/widget/service-slider-2-images.php:72 ../inc/post-
+#: types/slide/slide.php:119 ../inc/post-types/slide/widget/slider.php:38 ..
+#: /inc/post-types/team/team.php:139 ../inc/post-types/team/widget/team-4-columns.
+#: php:49 ../inc/post-types/testimonial/testimonial.php:134 ../inc/post-
+#: types/testimonial/widget/testimonial-intro.php:55 ../inc/post-
+#: types/testimonial/widget/testimonial-slider.php:55 ../inc/widgets/post/news-
+#: testimonials.php:38
+msgid "Tags"
+msgstr ""
+
+#: ../inc/post-types/partner/widget/partner.php:15 ../inc/post-
+#: types/slide/widget/slider.php:15
+msgid "Display list partner slider."
+msgstr ""
+
+#: ../inc/post-types/partner/widget/partner.php:17
+msgid "Luxicar - Partner"
+msgstr ""
+
+#: ../inc/post-types/partner/widget/partner.php:22 ../inc/post-
+#: types/slide/widget/slider.php:22
+msgid "Number of partner"
+msgstr ""
+
+#: ../inc/post-types/partner/widget/partner.php:26 ../inc/post-
+#: types/portfolio/widget/portfolio-slider.php:37 ../inc/post-
+#: types/service/widget/service-grid.php:43 ../inc/post-
+#: types/service/widget/service-highlight-2.php:38 ../inc/post-
+#: types/service/widget/service-list-4-columns.php:43 ../inc/post-
+#: types/service/widget/service-slider-2-images.php:60 ../inc/post-
+#: types/slide/widget/slider.php:26 ../inc/post-types/team/widget/team-4-columns.
+#: php:37 ../inc/post-types/testimonial/widget/testimonial-intro.php:43 ..
+#: /inc/post-types/testimonial/widget/testimonial-slider.php:43 ..
+#: /inc/widgets/post/news-testimonials.php:26
+msgid "-- All --"
+msgstr ""
+
+#: ../inc/post-types/portfolio/ajax.php:49 ../inc/post-
+#: types/portfolio/widget/portfolio-loadmore.php:88 ../inc/post-
+#: types/portfolio/widget/portfolio-slider.php:114 ../inc/shortcodes/portfolio.
+#: php:33
+msgid "By"
+msgstr ""
+
+#: ../inc/post-types/portfolio/layout.php:13 ../inc/post-types/portfolio/layout.
+#: php:25 ../inc/post-types/portfolio/layout.php:31
+msgid "Portfolio Single"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:31
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:32
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:33
+msgctxt "admin menu"
+msgid "Portfolios"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:34
+msgctxt "add new on admin bar"
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:35
+msgctxt "portfolio"
+msgid "Add New"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:36
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:37
+msgid "New Portfolio"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:38
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:39
+msgid "View Portfolio"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:40
+msgid "All Portfolios"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:41
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:42
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:43
+msgid "No portfolio found."
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:44
+msgid "No portfolio found in Trash."
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:67
+msgctxt "taxonomy general name"
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:103
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:121 ../inc/post-
+#: types/portfolio/portfolio.php:143
+msgid "Task"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:126 ../inc/post-
+#: types/portfolio/portfolio.php:144 ../inc/post-types/testimonial/testimonial.
+#: php:100
+msgid "Website"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:139 ../inc/post-
+#: types/service/service.php:160 ../inc/post-types/service/service.php:184
+msgid "Image"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widget/portfolio-loadmore.php:16
+msgid "Display list of portfolio & filter."
+msgstr ""
+
+#: ../inc/post-types/portfolio/widget/portfolio-loadmore.php:18
+msgid "Luxicar - Portfolio Filter"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widget/portfolio-loadmore.php:28
+msgid "Number of portfolios"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widget/portfolio-loadmore.php:98
+msgid "Load more"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widget/portfolio-loadmore.php:107
+msgid "All fields"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widget/portfolio-slider.php:16
+msgid "Display list portfolio slider."
+msgstr ""
+
+#: ../inc/post-types/portfolio/widget/portfolio-slider.php:18
+msgid "Luxicar - Portfolio Slider"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widget/portfolio-slider.php:33
+msgid "Number of portfolio"
+msgstr ""
+
+#: ../inc/post-types/service/layout.php:13 ../inc/post-types/service/layout.php:
+#: 25 ../inc/post-types/service/layout.php:31
+msgid "Service Single"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:34
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:35
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:36
+msgctxt "admin menu"
+msgid "Services"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:37
+msgctxt "add new on admin bar"
+msgid "Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:38
+msgctxt "service"
+msgid "Add New"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:39
+msgid "Add New Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:40
+msgid "New Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:41
+msgid "Edit Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:42
+msgid "View Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:43
+msgid "All Services"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:44
+msgid "Search Services"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:45
+msgid "Parent Services:"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:46
+msgid "No service found."
+msgstr ""
+
+#: ../inc/post-types/service/service.php:47
+msgid "No service found in Trash."
+msgstr ""
+
+#: ../inc/post-types/service/service.php:70
+msgctxt "taxonomy general name"
+msgid "Services Tags"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:106
+msgid "Icon"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:112
+msgid "Iclude"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:118 ../inc/post-types/service/service.
+#: php:134
+msgid "Price"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:131
+msgid "Thumb"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:28
+msgid "Display service sale and subscribe form."
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:30
+msgid "Luxicar - Sale & Subscribe"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:46
+msgid "Service"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:51
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:56
+msgid "Button URL"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:61
+msgid "Title Subscribe"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:66
+msgid "Description Subscribe"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:70
+msgid "Mailchimp / Feedburner"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:73
+msgid "Mailchimp "
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:74
+msgid "Feedburner"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:79
+msgid "ID / URL"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:84
+msgid "Extra"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:134
+msgid "Service Includes"
+msgstr ""
+
+#: ../inc/post-types/service/widget/sale-subscribe.php:165 ../inc/post-
+#: types/service/widget/sale-subscribe.php:176
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-grid.php:16
+msgid "Display service grid."
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-grid.php:18
+msgid "Luxicar - Service Grid"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-grid.php:33 ../inc/post-
+#: types/service/widget/service-highlight-2.php:28 ../inc/post-
+#: types/service/widget/service-list-4-columns.php:33 ../inc/post-
+#: types/service/widget/service-slider-2-images.php:33
+msgid "Number of service"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-grid.php:38 ../inc/post-
+#: types/service/widget/service-highlight-2.php:33 ../inc/post-
+#: types/service/widget/service-list-4-columns.php:38 ../inc/post-
+#: types/service/widget/service-slider-2-images.php:43 ../inc/post-
+#: types/testimonial/widget/testimonial-intro.php:39 ../inc/post-
+#: types/testimonial/widget/testimonial-slider.php:38 ../inc/widgets/post/article-
+#: list-1-column-255-160.php:23 ../inc/widgets/post/article-list-3-columns-370-
+#: 210.php:23 ../inc/widgets/post/featured-post.php:49 ..
+#: /inc/widgets/post/featured-post.php:55 ../inc/widgets/post/news-testimonials.
+#: php:23
+msgid "Excerpt length:"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-grid.php:39 ../inc/post-
+#: types/service/widget/service-highlight-2.php:34 ../inc/post-
+#: types/service/widget/service-list-4-columns.php:39 ../inc/post-
+#: types/service/widget/service-slider-2-images.php:44 ../inc/post-
+#: types/testimonial/widget/testimonial-intro.php:40 ../inc/post-
+#: types/testimonial/widget/testimonial-slider.php:39 ../inc/widgets/post/article-
+#: list-1-column-255-160.php:24 ../inc/widgets/post/article-list-3-columns-370-
+#: 210.php:24 ../inc/widgets/post/featured-post.php:50 ..
+#: /inc/widgets/post/featured-post.php:56 ../inc/widgets/post/news-testimonials.
+#: php:24
+msgid "Enter 0 to hide the excerpt."
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-grid.php:124 ../inc/post-
+#: types/service/widget/service-grid.php:151 ../inc/widgets/post/article-list-3-
+#: columns-370-210.php:91 ../inc/widgets/post/featured-post.php:109
+msgid "More Learn"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-highlight-2.php:16
+msgid "Display hightlights service and excerpt."
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-highlight-2.php:18
+msgid "Luxicar - Hightlights Service 2"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-list-4-columns.php:16
+msgid "Display service list 4 columns."
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-list-4-columns.php:18
+msgid "Luxicar - Service List 4 Columns"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-slider-2-images.php:16
+msgid "Display service list with 2 images."
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-slider-2-images.php:18
+msgid "Luxicar - Service Slider 2 Images"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-slider-2-images.php:38
+msgid "Number of page"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-slider-2-images.php:50
+msgid "Images 1:"
+msgstr ""
+
+#: ../inc/post-types/service/widget/service-slider-2-images.php:55
+msgid "Image 2:"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:22
+msgctxt "post type general name"
+msgid "Slides"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:23
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:24
+msgctxt "admin menu"
+msgid "Slides"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:25
+msgctxt "add new on admin bar"
+msgid "Slide"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:26 ../inc/post-types/testimonial/testimonial.
+#: php:27
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:27
+msgid "Add New Slide"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:28
+msgid "New Slide"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:29
+msgid "Edit Slide"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:30
+msgid "View Slide"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:31
+msgid "All Slides"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:32
+msgid "Search Slides"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:33
+msgid "Parent Slides:"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:34 ../inc/post-types/testimonial/testimonial.
+#: php:35
+msgid "No testimonial found."
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:35 ../inc/post-types/testimonial/testimonial.
+#: php:36
+msgid "No testimonial found in Trash."
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:58
+msgctxt "taxonomy general name"
+msgid "Slides Tags"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:94
+msgid "Sub title"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:99
+msgid "Link Text"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:104
+msgid "Link URL"
+msgstr ""
+
+#: ../inc/post-types/slide/slide.php:117
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/post-types/slide/widget/slider.php:17
+msgid "Luxicar - Slider"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:22
+msgctxt "post type general name"
+msgid "Members"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:23
+msgctxt "post type singular name"
+msgid "Team"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:24
+msgctxt "admin menu"
+msgid "Teams"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:25
+msgctxt "add new on admin bar"
+msgid "Team"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:26
+msgctxt "team"
+msgid "Add New"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:27
+msgid "Add New Member"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:28
+msgid "New Member"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:29
+msgid "Edit Member"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:30
+msgid "View Member"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:31
+msgid "All Members"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:32
+msgid "Search Members"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:33
+msgid "Parent Members:"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:34
+msgid "No member found."
+msgstr ""
+
+#: ../inc/post-types/team/team.php:35
+msgid "No member found in Trash."
+msgstr ""
+
+#: ../inc/post-types/team/team.php:58
+msgctxt "taxonomy general name"
+msgid "Teams Tags"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:94 ../inc/post-types/team/team.php:140 ..
+#: /inc/post-types/testimonial/testimonial.php:105 ../inc/post-
+#: types/testimonial/testimonial.php:136
+msgid "Position"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:99 ../inc/post-types/team/team.php:142 ..
+#: /inc/widgets/contact/contact-info-logo.php:49
+msgid "Phone"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:119
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:124 ../inc/widgets/contact/contact-form-2.php:
+#: 56 ../inc/widgets/contact/contact-form.php:65 ../inc/widgets/contact/contact-
+#: info-logo.php:39
+msgid "Email"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:137 ../inc/post-types/testimonial/testimonial.
+#: php:132
+msgid "Avatar"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:138 ../inc/post-types/testimonial/testimonial.
+#: php:95 ../inc/post-types/testimonial/testimonial.php:135 ..
+#: /inc/widgets/contact/contact-form-2.php:53 ../inc/widgets/contact/contact-form.
+#: php:62
+msgid "Name"
+msgstr ""
+
+#: ../inc/post-types/team/team.php:141
+msgid "Socials"
+msgstr ""
+
+#: ../inc/post-types/team/widget/team-4-columns.php:16
+msgid "Display list team 4 columns."
+msgstr ""
+
+#: ../inc/post-types/team/widget/team-4-columns.php:18
+msgid "Luxicar - Team 4 Columns"
+msgstr ""
+
+#: ../inc/post-types/team/widget/team-4-columns.php:33
+msgid "Number of team"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:23
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:24
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:25
+msgctxt "admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:26
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:28
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:29
+msgid "New Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:30
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:31
+msgid "View Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:32
+msgid "All Testimonials"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:33
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:34
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:59
+msgctxt "taxonomy general name"
+msgid "Testimonials Tags"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:110
+msgid "Start"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:115
+msgid "--- None ---"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:116
+msgid "1 Star"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:117
+msgid "2 Stars"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:118
+msgid "3 Stars"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:119
+msgid "4 Stars"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:120
+msgid "5 Stars"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:137
+msgid "Star"
+msgstr ""
+
+#: ../inc/post-types/testimonial/widget/testimonial-intro.php:16
+msgid "Display intro in left, list testimonial in right."
+msgstr ""
+
+#: ../inc/post-types/testimonial/widget/testimonial-intro.php:18
+msgid "Luxicar - Intro & Tettimonials"
+msgstr ""
+
+#: ../inc/post-types/testimonial/widget/testimonial-intro.php:34 ../inc/post-
+#: types/testimonial/widget/testimonial-slider.php:33
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/widget/testimonial-slider.php:16
+msgid "Display testimonial slider."
+msgstr ""
+
+#: ../inc/post-types/testimonial/widget/testimonial-slider.php:18
+msgid "Luxicar - Testimonial Slider"
+msgstr ""
+
+#: ../inc/widgets/util.php:74
+msgid "Number of word in excerpt"
+msgstr ""
+
+#: ../inc/widgets/util.php:505
+msgid "No weather information available"
+msgstr ""
+
+#: ../inc/widgets/util.php:523
+msgid "No city found in OpenWeatherMap."
+msgstr ""
+
+#: ../inc/widgets/util.php:524
+msgid "Only one location found. The ID has been set automatically above."
+msgstr ""
+
+#: ../inc/widgets/util.php:525
+msgid "Please confirm your city: &nbsp;"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form-2.php:15
+msgid "Display contact form without description ( use contact page )."
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form-2.php:17
+msgid "Luxicar - Contact Form 2"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form-2.php:59 ../inc/widgets/contact/contact-
+#: form.php:68
+msgid "Subject"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form-2.php:60 ../inc/widgets/contact/contact-
+#: form.php:69
+msgid "Message"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form-2.php:61 ../inc/widgets/contact/contact-
+#: form.php:70
+msgid "SEND"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:15
+msgid "Display contact form."
+msgstr ""
+
+#: ../inc/widgets/contact/contact-form.php:17
+msgid "Luxicar - Contact Form"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-2-columns.php:16
+msgid "Display contact info 2 columns and description."
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-2-columns.php:18
+msgid "Luxicar - Contact Info 2 Columns"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-2-columns.php:33 ..
+#: /inc/widgets/contact/contact-info-4-columns-2.php:24 ..
+#: /inc/widgets/contact/contact-info-4-columns.php:24
+msgid "Column 1"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-2-columns.php:38 ..
+#: /inc/widgets/contact/contact-info-4-columns-2.php:31 ..
+#: /inc/widgets/contact/contact-info-4-columns.php:31
+msgid "Column 2"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-3-columns.php:16
+msgid "Display contact info 3 columns and description."
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-3-columns.php:18
+msgid "Luxicar - Contact Info 3 Columns"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-3-columns.php:28
+msgid "Description Row 1"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-3-columns.php:34
+msgid "Description Row 2"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-3-columns.php:35
+msgid "Recommend use shortcode : [info style=\"1\"]content[/info]"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-4-columns-2.php:15
+msgid "Display contact info 4 columns (style 2). Recommend use shortcode."
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-4-columns-2.php:17
+msgid "Luxicar - Contact Info 4 Columns (Style 2)"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-4-columns-2.php:23 ..
+#: /inc/widgets/contact/contact-info-4-columns-2.php:30 ..
+#: /inc/widgets/contact/contact-info-4-columns-2.php:37 ..
+#: /inc/widgets/contact/contact-info-4-columns-2.php:44 ..
+#: /inc/widgets/contact/contact-info-4-columns.php:23 ..
+#: /inc/widgets/contact/contact-info-4-columns.php:30 ..
+#: /inc/widgets/contact/contact-info-4-columns.php:37 ..
+#: /inc/widgets/contact/contact-info-4-columns.php:44
+msgid "Recommend shortcode [info icon=\"fa-envelope\" title=\"Title\"]Content[/info]"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-4-columns-2.php:38 ..
+#: /inc/widgets/contact/contact-info-4-columns.php:38
+msgid "Column 3"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-4-columns-2.php:45 ..
+#: /inc/widgets/contact/contact-info-4-columns.php:45
+msgid "Column 4"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-4-columns.php:15
+msgid "Display contact info 4 columns. Recommend use shortcode."
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-4-columns.php:17
+msgid "Luxicar - Contact Info 4 Columns"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-logo.php:15
+msgid "Display logo and contact info ( address, phone, mobile, email )."
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-logo.php:17
+msgid "Luxicar - Contact Info Logo"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-logo.php:34
+msgid "Add"
+msgstr ""
+
+#: ../inc/widgets/contact/contact-info-logo.php:44
+msgid "Mobile"
+msgstr ""
+
+#: ../inc/widgets/contact/map.php:16
+msgid "Display google map."
+msgstr ""
+
+#: ../inc/widgets/contact/map.php:18
+msgid "Luxicar - Map"
+msgstr ""
+
+#: ../inc/widgets/contact/map.php:28
+msgid "Place"
+msgstr ""
+
+#: ../inc/widgets/contact/map.php:33
+msgid "Latitude"
+msgstr ""
+
+#: ../inc/widgets/contact/map.php:38
+msgid "Longitude"
+msgstr ""
+
+#: ../inc/widgets/misc/counter.php:16
+msgid "Display icon and number."
+msgstr ""
+
+#: ../inc/widgets/misc/counter.php:18
+msgid "Luxicar - Counter"
+msgstr ""
+
+#: ../inc/widgets/misc/counter.php:24
+msgid "Recomend shortcode [counter icon=\"fa-rocket\" number=\"20\"]Title[/counter]"
+msgstr ""
+
+#: ../inc/widgets/misc/multimenu.php:15 ../inc/widgets/post/featured-post.php:16
+msgid "---- None ----"
+msgstr ""
+
+#: ../inc/widgets/misc/multimenu.php:20
+msgid "Display multimenu, title and menu."
+msgstr ""
+
+#: ../inc/widgets/misc/multimenu.php:22
+msgid "Luxicar - Multimenu"
+msgstr ""
+
+#: ../inc/widgets/misc/multimenu.php:28
+msgid "Menus"
+msgstr ""
+
+#: ../inc/widgets/post/article-list-1-column-255-160.php:16
+msgid "Display article list 1 column, thumb size 255x150."
+msgstr ""
+
+#: ../inc/widgets/post/article-list-1-column-255-160.php:18
+msgid "Luxicar - Article Lists 1 Column ( 255x160 )"
+msgstr ""
+
+#: ../inc/widgets/post/article-list-1-column-255-160.php:29 ..
+#: /inc/widgets/post/article-list-3-columns-370-210.php:29
+msgid "Description:"
+msgstr ""
+
+#: ../inc/widgets/post/article-list-1-column-255-160.php:80 ..
+#: /inc/widgets/post/news-testimonials.php:100
+msgid "By "
+msgstr ""
+
+#: ../inc/widgets/post/article-list-3-columns-370-210.php:16
+msgid "Display article lists 3 columns, thumb size 370x210."
+msgstr ""
+
+#: ../inc/widgets/post/article-list-3-columns-370-210.php:18
+msgid "Luxicar - Article Lists 3 Columns ( 370x210 )"
+msgstr ""
+
+#: ../inc/widgets/post/article-list-with-avatar-author.php:18
+msgid "Display article list with avatar author"
+msgstr ""
+
+#: ../inc/widgets/post/article-list-with-avatar-author.php:20
+msgid "Luxicar- Article List With Avatar Author"
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:21
+msgid "Display featured post."
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:23
+msgid "Luxicar - Featured post"
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:33
+msgid "Title Below Thumb"
+msgstr ""
+
+#: ../inc/widgets/post/featured-post.php:44
+msgid "Select post"
+msgstr ""
+
+#: ../inc/widgets/post/news-testimonials.php:16
+msgid "Display lists article and testimonial, 2 columns."
+msgstr ""
+
+#: ../inc/widgets/post/news-testimonials.php:18
+msgid "Luxicar - News & Testimonials"
+msgstr ""
+
+#: ../inc/widgets/post/recent-post-no-thumbnail.php:18
+msgid "Display recent post no thumbnail"
+msgstr ""
+
+#: ../inc/widgets/post/recent-post-no-thumbnail.php:20
+msgid "(Luxicar) Recent Post No Thumbnail"
+msgstr ""
+
+#: ../inc/widgets/post/recent_post.php:18
+msgid "Display recent post have thumbnail"
+msgstr ""
+
+#: ../inc/widgets/post/recent_post.php:20
+msgid "(Luxicar) Recent Post Have Thumbnail"
+msgstr ""
